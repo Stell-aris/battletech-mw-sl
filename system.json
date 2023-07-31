@@ -1,0 +1,24 @@
+{
+	"id": "battletech-mw-sl",
+	"title": "MechWarrior: Signal Lost",
+	"description": "A BattleTech mixed system designed to smoothly integrate Total Warfare, MechWarrior: Destiny, and other rulebooks in order to create an experience best fitting of a rickety team of mercenaries, barely able to keep a single lance in operation.",
+	"version": "0.0.1",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "11",
+		"maximum": "11"
+	},
+	"authors": [
+		{
+			"name": "Salome",
+			"discord": "stell_aris"
+		}
+	],
+	"languages": [
+    {
+      "lang": "en",
+      "name": "English"
+    }
+  ],
+  "gridUnits": "m"
+}

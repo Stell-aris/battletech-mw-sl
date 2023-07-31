@@ -1,0 +1,10 @@
+{
+	"Actor": {
+		"types": ["character", "npc", "battlemech", "vehicle", "elemental", "aerofighter"]
+		"templates": {
+		}
+		"aerofighter": {
+			"status":
+		}
+	}
+}
